@@ -4,6 +4,10 @@ Cutter is a tool that allows you to quickly select moments in a video like a GoP
 
 ## Restrictions
 
+### Requires ffmpeg
+
+### Only works on unix systems
+
 ### Supported file extensions
 * MP4 and mp4
 
